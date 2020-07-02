@@ -1,0 +1,10 @@
+{
+  "owner": "RichieRunner",
+  "repo": "node-test",
+  "name": "Richie-Ho",
+  "email": "richie.ho@outlook.com",
+  "onlyPublishWithReleaseLabel": true,
+  "githubApi": "https://api.github.com",
+  "labels": [
+  ]
+}
