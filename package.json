@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "auto": "^9.40.5"
+    "auto": "^9.43.1"
+  },
+  "devDependencies": {
+    "@auto-it/released": "^9.43.1" 
   }
 }
