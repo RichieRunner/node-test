@@ -4,6 +4,6 @@
   "name": "Richie-Ho",
   "email": "richie.ho@outlook.com",
   "githubApi": "https://api.github.com",
-  "githubApi": "https://api.github.com/graphql",
+  "githubGraphqlApi": "https://api.github.com/graphql",
   "plugins": ["released"]
 }
