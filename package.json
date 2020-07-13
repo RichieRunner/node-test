@@ -12,6 +12,7 @@
     "auto": "^9.43.1"
   },
   "devDependencies": {
+    "@auto-it/npm": "^9.43.1",
     "@auto-it/released": "^9.43.1"
   }
 }

@@ -5,5 +5,5 @@
   "email": "richie.ho@outlook.com",
   "githubApi": "https://api.github.com",
   "githubGraphqlApi": "https://api.github.com/graphql",
-  "plugins": ["released"]
+  "plugins": ["npm"]
 }
